@@ -1,0 +1,9 @@
+
+Feature: API Test
+  I want to use this template for my feature file
+
+  
+  Scenario: Tes API response
+    Given url 'http://https://jsonplaceholder.typicode.com/posts'
+    When method GET
+    Then status 200

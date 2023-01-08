@@ -1,0 +1,14 @@
+
+Feature: API Test
+  
+
+  
+  Scenario: Tes API response
+    Given url 'https://jsonplaceholder.typicode.com/posts/1'
+    When method GET
+    Then status 200
+    And print response
+    And print responseStatus
+    And print responseTime
+    And print responseHeaders
+    And print responseCookies

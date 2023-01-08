@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;KarateUIAutomation/src/test/java/KarateUIAutomation/UITest/API.feature&apos; to &apos;API_response.feature&apos;" description="Rename resource &apos;API.feature&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/test/java/KarateUIAutomation/UITest/API.feature" name="API_response.feature" stamp="1673182699179" updateReferences="true"/>
+</session>
